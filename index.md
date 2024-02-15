@@ -14,5 +14,8 @@
 <ul>
 <li class="normal">In this project you will devise a framework for explaining what caused unsafe behaviours of your network, and how such errors could have been avoided. This is a useful tool network developers can use in order to debug and better understand the flaws in their programs.</li>
 </ul>
+  <p class="normal"><span style="color: #3366ff;"><strong>Learning DyNetKAT Models from Real Data Sets</strong></span></p>
+<ul>
+<li class="normal">In this project you will devise a framework for learning formal models of network behaviours. These can be further analysed to ensure safety and reliability of real networks.</li>
 </div>
 </div>
