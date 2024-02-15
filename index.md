@@ -3,7 +3,7 @@
 <p class="normal">In FMT, we work on projects addressing similar problems, and on developing rigorous methodologies for modeling and analysing causes of anomalous behaviours in software defined networks (SDNs). SDNs are characterised by their simplicity in network management and increased network programability, which are key factors in reducing capital expenditure and operating expenses. In short, SDN architectures decouple network control and forwarding functions, enabling the network control to become directly programmable and the underlying infrastructure to be abstracted from applications and network services.</p>
 <p class="normal">We offer B.Sc. research projects related to the development of programming languages for SDNs and associated analysis frameworks, supported by rigorous mathematical foundations.</p>
 <h2 class="heading2 foldabledeeplink__title">AVAILABLE PROJECT PROPOSALS</h2>
-<div class="foldabledeeplink__foldcontainer">
+<div class="foldabledeeplink__foldcontainer"> 
 <div class="foldabledeeplink__text">
 <p class="normal">If you are interested in the general topic of <strong>Formal Analysis of SDNs</strong>, or if you have your own project idea related to the topic, please contact us directly. Alternatively, you can also work on one of the following concrete project proposals targeting <a href="https://arxiv.org/abs/2102.10035">DyNetKAT</a> --our recently developed framework for the formal specification and verification of SDNs:</p>
 <p><span style="color: #3366ff;"><strong>Visualisation of DyNetKAT models</strong></span></p>
